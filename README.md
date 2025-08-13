@@ -1,7 +1,9 @@
---🌱 Constantly pushing boundaries in Python and Advanced Java. 
+🌱 Learning never stops so currently focusing into Python, Advanced Java and the art of Securing Systems.
 
---💻 Obsessed with unraveling the complexities of software development and cybersecurity.
+💻 Passionate about solving problems at the intersection of software, security and human behavior.
 
---📫 Reach me here https://github.com/krcodu
+🔐 Builded projects from Arudino-based Women Safety Device to some websites - some code lives here, some might be lost forever.
 
---💡 Believe in the code, trust in the process.
+📫 Find me here: https://github.com/krcyph
+
+💡 Believe in the universe. Trust the process. Own the outcome.
